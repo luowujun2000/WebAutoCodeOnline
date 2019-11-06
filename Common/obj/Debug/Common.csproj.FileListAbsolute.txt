@@ -1,0 +1,12 @@
+D:\Project\WebAutoCodeOnline-master\Common\bin\Debug\Common.dll
+D:\Project\WebAutoCodeOnline-master\Common\bin\Debug\Common.pdb
+D:\Project\WebAutoCodeOnline-master\Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\WebAutoCodeOnline-master\Common\bin\Debug\Microsoft.JScript.dll
+D:\Project\WebAutoCodeOnline-master\Common\bin\Debug\Interop.MSScriptControl.dll
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Interop.MSScriptControl.dll
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Common.csproj.CopyComplete
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Common.dll
+D:\Project\WebAutoCodeOnline-master\Common\obj\Debug\Common.pdb

@@ -1,0 +1,13 @@
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\CodeHelper.dll
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\CodeHelper.pdb
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\Common.dll
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\Model.dll
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\Interop.MSScriptControl.dll
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\Common.pdb
+D:\Project\WebAutoCodeOnline-master\CodeHelper\bin\Debug\Model.pdb
+D:\Project\WebAutoCodeOnline-master\CodeHelper\obj\Debug\CodeHelper.csprojAssemblyReference.cache
+D:\Project\WebAutoCodeOnline-master\CodeHelper\obj\Debug\CodeHelper.csproj.CoreCompileInputs.cache
+D:\Project\WebAutoCodeOnline-master\CodeHelper\obj\Debug\CodeHelper.csproj.CopyComplete
+D:\Project\WebAutoCodeOnline-master\CodeHelper\obj\Debug\CodeHelper.dll
+D:\Project\WebAutoCodeOnline-master\CodeHelper\obj\Debug\CodeHelper.pdb

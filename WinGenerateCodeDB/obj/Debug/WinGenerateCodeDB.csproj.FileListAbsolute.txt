@@ -1,0 +1,12 @@
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\bin\Debug\WinGenerateCodeDB.exe
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\bin\Debug\WinGenerateCodeDB.pdb
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\bin\Debug\MySql.Data.dll
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.csprojAssemblyReference.cache
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.Child.FieldExtendFrm.resources
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.MainFrm.resources
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.Properties.Resources.resources
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.csproj.GenerateResource.cache
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.csproj.CoreCompileInputs.cache
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.csproj.CopyComplete
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.exe
+D:\Project\WebAutoCodeOnline-master\WinGenerateCodeDB\obj\Debug\WinGenerateCodeDB.pdb

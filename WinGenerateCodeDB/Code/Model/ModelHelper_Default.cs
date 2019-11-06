@@ -28,29 +28,30 @@ namespace WinGenerateCodeDB.Code
             for (int i = 0; i < colList.Count; i++)
             {
                 var item = colList[i];
-                if (!string.IsNullOrEmpty(item.Comment))
-                {
-                    content.Append(CommentTool.CreateComment(item.Comment, 2));
-                }
+                //if (!string.IsNullOrEmpty(item.Comment))
+                //{
+                //    content.Append(CommentTool.CreateComment(item.Comment, 2));
+                //}
 
-                content.AppendFormat("\t\tprivate {0} _{1} = {2};\r\n",
-                    SqlTool.GetFormatString(item.DbType),
-                    item.Name,
-                    SqlTool.GetDefaultValueStr(item.DbType));
+                //content.AppendFormat("\t\tprivate {0} _{1} = {2};\r\n",
+                //    SqlTool.GetFormatString(item.DbType),
+                //    item.Name,
+                //    SqlTool.GetDefaultValueStr(item.DbType));
 
                 content.AppendLine();
                 if (!string.IsNullOrEmpty(item.Comment))
                 {
-                    content.Append(CommentTool.CreateComment(item.Comment, 2));
+                    content.Append(CommentTool.CreateComment(item.Comment.Replace("\r\n", ""), 2));
                 }
-
-                content.AppendFormat("\t\tpublic {0} {1}\r\n",
-                    SqlTool.GetFormatString(item.DbType),
-                    item.Name);
-                content.AppendLine("\t\t{");
-                content.AppendLine("\t\t\tget { return this._" + item.Name + "; }");
-                content.AppendLine("\t\t\tset { this._" + item.Name + " = value; }");
-                content.AppendLine("\t\t}\r\n");
+                content.Append($"\t\tpublic {SqlTool.GetFormatString(item.DbType)} {item.Name}"+ " { get; set; }");
+               
+                //content.AppendFormat("\t\tpublic {0} {1}\r\n",
+                //    SqlTool.GetFormatString(item.DbType),
+                //    item.Name);
+                //content.AppendLine("\t\t{");
+                //content.AppendLine("\t\t\tget { return this._" + item.Name + "; }");
+                //content.AppendLine("\t\t\tset { this._" + item.Name + " = value; }");
+                //content.AppendLine("\t\t}\r\n");
             }
 
             var extendList = PageCache.GetExtendList();
@@ -120,7 +121,7 @@ namespace WinGenerateCodeDB.Code
                 }
             }
 
-            content.AppendLine("\t}");
+            content.AppendLine("\r\n\t}");
             content.AppendLine("}");
 
             return content.ToString();
